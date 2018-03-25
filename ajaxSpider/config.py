@@ -1,0 +1,7 @@
+MONGO_URL = '127.0.0.1'
+MONGO_DB = 'TTiao_DB'
+MONGO_TABLE = 'Table_NAME'
+
+START = 1
+END = 20
+KEYWORD='关键字'
